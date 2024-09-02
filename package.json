@@ -1,0 +1,11 @@
+{
+  "name": "bloodblank",
+  "version": "1.0.0",
+  "description": "blood blank mern",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nitin mirge",
+  "license": "ISC"
+}
